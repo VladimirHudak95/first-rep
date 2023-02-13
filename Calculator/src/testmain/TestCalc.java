@@ -59,8 +59,10 @@ public class TestCalc {
 			again = c == 'y';
 			
 		}
-		System.out.println("Application is closing...");
+		System.out.println("Console application is closing...");
 		in.close();
+		
+		
 		
 		System.exit(0);
 	}

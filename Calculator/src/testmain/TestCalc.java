@@ -56,7 +56,7 @@ public class TestCalc {
 			System.out.println("Press y/n to go again or close the application...");
 			
 			char c = in.next().charAt(0);
-			again = c == 'y';
+			again = c == 'y'; 
 			
 		}
 		System.out.println("Console application is closing...");
